@@ -1,0 +1,28 @@
+<svg width="8" height="6" viewBox="0 0 8 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="8" height="6" fill="#E5E5E5"/>
+<g id="Homepage 1" clip-path="url(#clip0_0_1)">
+<rect width="1920" height="8711" transform="translate(-684 -47)" fill="white"/>
+<g id="Section Hero">
+<g id="pattern">
+</g>
+</g>
+<g id="Header/Header 1">
+<rect width="1463" height="70" transform="translate(-440 -19)" fill="white"/>
+<g id="Menu text">
+<g id="Menu item">
+<g id="fi-sr-caret-down 1" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M0.607239 0.5H7.39276C7.51287 0.500028 7.63027 0.5387 7.73013 0.611128C7.82999 0.683555 7.90781 0.786487 7.95377 0.90691C7.99973 1.02733 8.01176 1.15984 7.98834 1.28768C7.96491 1.41552 7.90709 1.53295 7.82217 1.62513L4.42941 5.30702C4.31551 5.43058 4.16105 5.5 4 5.5C3.83895 5.5 3.68449 5.43058 3.57059 5.30702L0.17783 1.62513C0.0929137 1.53295 0.0350883 1.41552 0.0116636 1.28768C-0.0117612 1.15984 0.000266709 1.02733 0.0462263 0.90691C0.0921859 0.786487 0.170014 0.683555 0.269871 0.611128C0.369729 0.5387 0.487132 0.500028 0.607239 0.5Z" fill="#101828"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="8711" fill="white" transform="translate(-684 -47)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="8" height="5" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>

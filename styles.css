@@ -1,0 +1,27 @@
+.header-margin {
+  margin-top: 28px;
+  margin-bottom: 45px;
+}
+
+.get-started-btn {
+  background-color: "var(--color-gray-gray-100, #F2F4F7)";
+  border: none;
+  border-radius: 50px;
+  width: 156px;
+  height: 44px;
+}
+
+.get-started-btn-text {
+  font-size: 14px;
+  font-weight: 700;
+  font-family: 'Chivo';
+}
+
+.menu-item {
+  border: none;
+  background-color: transparent;
+  font-family: 'Chivo';
+  font-size: 14px;
+  font-weight: 500;
+}
+
