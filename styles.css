@@ -25,3 +25,132 @@
   font-weight: 500;
 }
 
+.star-bgr {
+  background-color: #FAEDE3;
+}
+
+.get-margin-column1 {
+  margin-top: 156px;
+  margin-bottom: 156px;
+}
+
+.font1 {
+  font-family: 'Chivo';
+  font-size: 60px;
+  font-weight: 550;
+}
+
+.font1-color {
+  color: #006D77;
+}
+
+.font2 {
+  font-family: 'Noto Sans';
+  font-size: 18px;
+  font-weight: 400;
+  color: #667085;
+}
+
+.banner-item1 {
+  border-radius: 50px;
+  background-color: #101828;
+  padding: 12px 22px 12px 22px;
+}
+
+.banner-font1 {
+  font-family: 'Chivo';
+  font-size: 14px;
+  font-weight: 400;
+  color: #FFF;
+}
+
+.banner-item2 {
+  border-radius: 50px;
+  background-color: transparent;
+  border: none;
+  padding: 12px 22px 12px 22px;
+}
+
+.picture-girl {
+  width: 671px;
+  height: 760px;
+}
+
+.pattern1 {
+  right: -28px;
+  top: -84px;
+}
+
+.pattern2 {
+  bottom: -80px;
+  left: 0px;
+}
+
+.elemen-mt {
+  margin-top: 102px;
+}
+
+.font4 {
+  font-family: 'Chivo';
+  font-size: 48px;
+  font-weight: 600;
+  text-align: center;
+  margin: 0 124px 0 124px;
+}
+
+.elemen-mt141 {
+  margin-top: 141px;
+}
+
+.font5 {
+  font-family: 'Noto Sans';
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  color: #475467;
+}
+
+.team-btn {
+    padding: 12px 22px 12px 22px;
+    border: 2px solid #006D77;
+    border-radius: 50px;
+    background-color: transparent;
+    color: #006D77;
+}
+.element-mt77 {
+  margin-top: 77px;
+}
+
+.get-bgr1 {
+  background-color: #FFF3EA;
+  padding: 78px 120px 78px 90px;
+}
+
+.learnmore-bg {
+  background-color: white !important;
+}
+
+.elemen-mt58 {
+  margin-top: 58px;
+}
+
+.font6 {
+  font-family: 'Chivo';
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.font7 {
+  font-family: 'Noto Sans';
+  font-size: 14px;
+  font-weight: 400;
+  color: #475467;
+}
+.get-picture-2people {
+  height: 500px;
+}
+
+.play-btn {
+  left: -80px;
+  top: 180px;
+}
