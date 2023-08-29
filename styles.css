@@ -96,6 +96,7 @@
   font-weight: 600;
   text-align: center;
   margin: 0 124px 0 124px;
+  line-height: normal;
 }
 
 .elemen-mt141 {
@@ -136,7 +137,7 @@
 
 .font6 {
   font-family: 'Chivo';
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 600;
 }
 
@@ -172,19 +173,6 @@
 
 .elemen-mt79 {
   margin: 79px;
-}
-
-.font8 {
-  font-family: 'Chivo';
-  font-size: 28px;
-  font-weight: 400;
-}
-
-.font9 {
-  font-family: 'Noto Sans';
-  font-size: 14px;
-  font-weight: 400;
-  color: #475467;
 }
 
 .get-bgr3 {
@@ -264,8 +252,8 @@
 
 .font12 {
   font-family: 'Chivo';
-font-size: 22px;
-font-weight: 400;
+  font-size: 22px;
+  font-weight: 400;
 }
 
 .elemen-mt33 {
@@ -278,7 +266,7 @@ font-weight: 400;
 
 .font13 {
   font-family: 'Chivo';
-  font-size: 48px;
+  font-size: 56px;
   font-weight: 600;
 }
 
@@ -289,10 +277,147 @@ font-weight: 400;
   color: #475467;
 }
 
-.element-ml45 {
-  margin-left: 45px;
+.element-ml95 {
+  margin-left: 95px;
 }
 
 .style-picture-3pp {
 width: 580px;
+}
+
+.banner-item3 {
+  border-radius: 50px;
+  background-color: transparent;
+  border: none;
+}
+
+.elemen-mt51 {
+  margin-top: 51px;
+}
+
+.elemen-mt48 {
+  margin-top: 48px;
+}
+
+.elemen-mt34 {
+  margin-top: 34px;
+}
+
+.elemen-mt14 {
+  margin-top: 14px;
+}
+
+.elemen-mr50 {
+  margin-right: 50px;
+}
+
+.bg1 {
+  border: 10px solid #FAD2E1;
+  background-color: #FFF;
+  padding: 40px 40px 40px 40px
+}
+
+.bg2 {
+  border: 10px solid #BEE1E6;
+  background-color: #FFF;
+  padding: 40px 40px 40px 40px
+}
+
+.bg3 {
+  border: 10px solid #DDD3FA;
+  background-color: #FFF;
+  padding: 40px 40px 40px 40px
+}
+
+.bg4 {
+  border: 10px solid #D1ECFD;
+  background-color: #FFF;
+  padding: 40px 40px 40px 40px
+}
+
+.style-img-pp {
+  width: 55px;
+  height: 56px;
+  flex-shrink: 0;
+}
+
+.font15 {
+  font-family: 'Chivo';
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.font16 {
+  font-family: 'Noto Sans';
+  font-size: 12px;
+  font-weight: 700;
+  color: #344054;
+}
+
+ .elemen-mt6 {
+  margin-top: 6px;
+ }
+
+.elemen-mt22{
+  margin-top: 22px;
+}
+
+.get-style-3o {
+  margin-right: 60px;
+  margin-left: -90px;
+}
+
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.elemen-mt87 {
+  margin-top: 87px;
+}
+
+.m100 {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.get-bgr-btn2 {
+  border: none;
+  color: #006D77;
+}
+
+.font17 {
+  font-family: 'Chivo';
+  font-size: 48px;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+}
+
+.font18 {
+  font-family: 'Noto Sans';
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+}
+
+.get-bgr7 {
+  background-color: #006D77;
+  padding: 87px 0px 111px 0px
+}
+
+.elemen-mt150 {
+  margin-top: 150px;
+}
+
+.elemen-mt63 {
+  margin-top: 63px;
+}
+
+.elemen-mt55 {
+  margin-top: 55px;
 }
